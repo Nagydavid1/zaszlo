@@ -1,0 +1,23 @@
+#keret{
+    height: 300px;
+    width: 600px;
+    border: 1px solid black;
+    background: repeating-linear-gradient(to bottom,#fc0303 0px,#fc0303 20px,#ffffff 20px,#ffffff 40px)
+}
+#kek{
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: blue;
+}
+#csillag{
+    width: 50px;
+    height: 50px;
+    margin-bottom: -200px;
+    line-height: 7px;
+    letter-spacing: 15px;
+}
+p{
+    font-size: 20px;
+    color: #ffffff;
+}
